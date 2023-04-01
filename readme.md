@@ -1,4 +1,4 @@
-# Решения задач LeetCode.com
+# Решения задач LeetCode.com  [<sup>ENG</sup>](https://github.com/ZaicevSergey/LettCode/blob/main/readmeEng.md/)
 
 Данный репозиторий содержит мои решения задач с сайта LeetCode.com.
 
