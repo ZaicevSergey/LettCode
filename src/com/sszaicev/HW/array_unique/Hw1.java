@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Hw1 {
     public static void main(String[] args) {
-        System.out.println(letters_learned_today("AAAAAAAAAAAAAAAAAAAA"));
+        System.out.println(letters_learned_today("АААФФФФФФФЖЫЫЫЫБЫРВАААААЛГГГХЫХЫБЛИА"));
 
     }
 
